@@ -26,9 +26,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-
 <!-- BLOG-POST-LIST:END -->
-
 
 <details>
   <summary>:zap: Github Stats</summary>
