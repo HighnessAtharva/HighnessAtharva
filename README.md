@@ -18,12 +18,10 @@
 </a>
 <br/>
 
-<p>
-- 🌱 I’m currently learning C++, Java, Python Frameworks and Cloud Computing 
-- 👯 I’m looking to collaborate with other content creators
-- 🥅  Goals: Contribute more to Open Source projects, Design Automation Algorithms
-- ⚡ Hobbies: Sci-Fi/Fantasy Books, Swimming, Experimenting with music 
-</p>
+-  🌱 I’m currently learning C++, Java, Python Frameworks and Cloud Computing 
+-  👯 I’m looking to collaborate with other content creators
+-  🥅  Goals: Contribute more to Open Source projects, Design Automation Algorithms
+-  ⚡ Hobbies: Sci-Fi/Fantasy Books, Swimming, Experimenting with music 
 
 
 ### 📕 Latest Blog Posts
@@ -31,10 +29,6 @@
 
 <!-- BLOG-POST-LIST:END -->
 
-
-## I ❤️ Memes | A rand() memes for you :p
-
-<img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -46,6 +40,10 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighnessAtharva&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 <br/>
+
+## I ❤️ Memes | A rand() memes for you :p
+
+<img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
 
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/HighnessAtharva)](https://github.com/HighnessAtharva)
