@@ -24,8 +24,17 @@
 -  ⚡ Hobbies: Sci-Fi/Fantasy Books, Swimming, Experimenting with music 
 
 
-### 📕 Latest Blog Posts
+### 📕 Featured Blog Posts
 <!-- BLOG-POST-LIST:START -->
+[Powerful Regex Snippets](https://opensourced.hashnode.dev/30-useful-regular-expressions-snippets) 
+
+[Ultimate Java Cheatsheet](https://opensourced.hashnode.dev/the-ultimate-java-cheat-sheet)
+
+[DBMS Quick Reference](https://opensourced.hashnode.dev/database-management-systems-quick-recapreference)
+
+[50 Useful CSS Snippets](https://opensourced.hashnode.dev/50-powerful-css-snippets-part-1)
+
+[Python Web Scraping - Batch Download An Entire Website](https://opensourced.hashnode.dev/python-web-scraping-batch-download-web-articles)
 <!-- BLOG-POST-LIST:END -->
 
 <details>
