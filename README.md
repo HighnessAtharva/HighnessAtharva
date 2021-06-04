@@ -37,6 +37,16 @@
 [Python Web Scraping - Batch Download An Entire Website](https://opensourced.hashnode.dev/python-web-scraping-batch-download-web-articles)
 <!-- BLOG-POST-LIST:END -->
 
+## Games
+[![Genshin Impact](https://img.shields.io/badge/Genshin%20Impact-%23555555.svg?&logo=genshin&style=for-the-badge&logoColor=white)]
+
+## Languages
+[![Python](https://img.shields.io/badge/python-3.9-%234B8BBE.svg?&logo=python&style=for-the-badge&logoColor=white)](https://www.python.org/)
+
+## Tools
+[![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=vs-code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
+[![Windows 10](https://img.shields.io/badge/windows-10-%230078D7.svg?&logo=windows&style=for-the-badge&logoColor=white)](https://www.linux.org/)
+
 <details>
   <summary>:zap: Github Stats</summary>
   <img src="https://github-readme-stats.vercel.app/api?username=HighnessAtharva&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
