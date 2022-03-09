@@ -4,9 +4,7 @@
 <a href="https://opensourced.hashnode.dev/">
   <img align="left" alt="Atharva Shah's Twitter" width="16px" src="https://symbols.getvecta.com/stencil_83/19_hashnode-icon.a2850f19b6.svg" />
 </a>
-<a href="https://twitter.com/HighnessAlex">
-  <img align="left" alt="Atharva Shah's Twitter" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
+
 <a href="https://www.linkedin.com/in/atharva-shah-5873a2111/">
   <img align="left" alt="Atharva Shah's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
