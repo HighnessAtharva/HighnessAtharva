@@ -11,10 +11,13 @@
 </a>
 <br/>
 
--  🌱 I’m currently learning C++, Java, Python Frameworks and Cloud Computing 
--  👯 I’m looking to collaborate with other content creators
--  🥅  Goals: Contribute more to Open Source projects, Design Automation Algorithms
--  ⚡ Hobbies: Sci-Fi/Fantasy Books, Swimming, Experimenting with music 
+I am a technology enthusiast who prefers to work on a modern stack and experiment with tools that automate repetitive tasks. I enjoy working with APIs and combining my creativity and talent to create amazing utility tools and software systems. 
+
+For the majority of my personal projects, I've relied heavily on Python, JavaScript, PHP, and Java as primary development languages, along with databases such as MySQL and SQLite. I am well-versed in networking, Linux, DBMS, OS, system design, scalability, SaaS, programming principles, and best software design practices, and I strive to write clean, efficient, and maintainable code.
+
+I also enjoy blogging to share my experiences and document my journey while experimenting with new technology and embarking on a new project. I am an outspoken supporter of open-source software systems. I have extensive experience with cloud technologies such as Google Cloud and Amazon Web Services (AWS). 
+
+I enjoy working with like-minded people and believe that the sum is greater than the parts and that developers working together in synergy produce excellent results.
 
 
 ### 📕 Featured Blog Posts
