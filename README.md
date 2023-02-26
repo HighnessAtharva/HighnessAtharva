@@ -43,18 +43,22 @@ I enjoy working with like-minded people and believe that the sum is greater than
 [![Windows 10](https://img.shields.io/badge/windows-10-%230078D7.svg?&logo=windows&style=for-the-badge&logoColor=white)](https://www.linux.org/)
 
 <h3 align="left">Support:</h3>  
-<p><a href="https://www.buymeacoffee.com/AtharvaShah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="anay" /></a></p><br><br><br>  
+<p><a href="https://www.buymeacoffee.com/AtharvaShah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AtharvaShah" /></a></p><br><br><br>  
 
-<details>
-  <summary>:zap: Github Stats</summary>
-  <img src="https://github-readme-stats.vercel.app/api?username=HighnessAtharva&&show_icons=true&title_color=222222&icon_color=03A87C&text_color=333333&bg_color=ffffff">
-</details>
+## Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=HighnessAtharva)](https://git.io/streak-stats)
 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighnessAtharva&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
-<br/>
+## 🏆 GitHub Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=HighnessAtharva&column=8&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=HighnessAtharva&column=8&theme=juicyfresh)
+
+---
+
+## 📈 GitHub Stats
+<div>
+  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=HighnessAtharva&show_icons=true&theme=vue&count_private=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighnessAtharva&layout=compact&show_icons=true&theme=vue" />
+</div>
+
 
 ## I ❤️ Memes | A rand() memes for you :p
 
