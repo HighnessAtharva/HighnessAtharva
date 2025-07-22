@@ -74,18 +74,6 @@ I'm a **Developer Advocate** and **Python Engineer** specializing in **AI & Auto
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://highnessatharva.github.io/HighnessAtharva/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://highnessatharva.github.io/HighnessAtharva/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://highnessatharva.github.io/HighnessAtharva/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ## **💼 Let's Connect & Collaborate**
 
 <div align="center">
