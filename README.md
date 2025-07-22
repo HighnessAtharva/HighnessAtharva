@@ -1,68 +1,107 @@
-### Hi there, I'm Atharva Shah 👋
-
-<a href="https://www.linkedin.com/in/atharva-shah-5873a2111/">
-  <img align="left" alt="Atharva Shah's Linkdein" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/HighnessAtharva">
-  <img align="left" alt="Atharva Shah's Github" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://www.instagram.com/mister.prodigious/">
-  <img align="left" alt="Atharva Shah's Instagram" width="16px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<br/>
-
-I am a technology enthusiast who prefers to work on a modern stack and experiment with tools that automate repetitive tasks. I enjoy working with APIs and combining my creativity and talent to create amazing utility tools and software systems. 
-
-For the majority of my personal projects, I've relied heavily on Python, JavaScript, PHP, and Java as primary development languages, along with databases such as MySQL and SQLite. I am well-versed in networking, Linux, DBMS, OS, system design, scalability, SaaS, programming principles, and best software design practices, and I strive to write clean, efficient, and maintainable code.
-
-I also enjoy blogging to share my experiences and document my journey while experimenting with new technology and embarking on a new project. I am an outspoken supporter of open-source software systems. I have extensive experience with cloud technologies such as Google Cloud and Amazon Web Services (AWS). 
-
-I enjoy working with like-minded people and believe that the sum is greater than the parts and that developers working together in synergy produce excellent results.
-
-
-### 📕 Featured Blog Posts
-<!-- BLOG-POST-LIST:START -->
-[Powerful Regex Snippets](https://opensourced.hashnode.dev/30-useful-regular-expressions-snippets) 
-
-[Ultimate Java Cheatsheet](https://opensourced.hashnode.dev/the-ultimate-java-cheat-sheet)
-
-[DBMS Quick Reference](https://opensourced.hashnode.dev/database-management-systems-quick-recapreference)
-
-[50 Useful CSS Snippets](https://opensourced.hashnode.dev/50-powerful-css-snippets-part-1)
-
-[Python Web Scraping - Batch Download An Entire Website](https://opensourced.hashnode.dev/python-web-scraping-batch-download-web-articles)
-<!-- BLOG-POST-LIST:END -->
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
-
+<div align="center">
   
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Developer+Advocate+%26+Python+Engineer;AI+%26+Automation+Specialist;Building+SaaS+%26+AI+Solutions;Welcome+to+my+GitHub+Profile!&font=Fira%20Code&center=true&width=800&height=100&color=f75c7e&vCenter=true&pause=1000&size=22)](https://git.io/typing-svg)
 
-## Tools
-[![VsCode](https://img.shields.io/badge/VsCode-%230078D7.svg?&logo=vs-code&style=for-the-badge&logoColor=white)](https://code.visualstudio.com/)
-[![Windows 10](https://img.shields.io/badge/windows-10-%230078D7.svg?&logo=windows&style=for-the-badge&logoColor=white)](https://www.linux.org/)
+# **🚀 Atharva Shah**
+### **Python & AI Engineer | Developer Advocate | Technical Writer**
+*Transforming complex technology into impactful automation solutions*
 
-<h3 align="left">Support:</h3>  
-<p><a href="https://www.buymeacoffee.com/AtharvaShah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="AtharvaShah" /></a></p><br><br><br>  
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://atharvashah.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/atharva-shah-tech/)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/cultist_dev)
+[![Blog](https://img.shields.io/badge/Substack-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://blog.atharvashah.com)
+[![Store](https://img.shields.io/badge/Gumroad-36C5F0?style=for-the-badge&logo=gumroad&logoColor=white)](https://store.atharvashah.com)
 
-## Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=HighnessAtharva)](https://git.io/streak-stats)
+![Profile Views](https://komarev.com/ghpvc/?username=HighnessAtharva&color=blueviolet&style=for-the-badge)
 
-## 🏆 GitHub Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=HighnessAtharva&column=8&theme=juicyfresh)](https://github-profile-trophy.vercel.app/?username=HighnessAtharva&column=8&theme=juicyfresh)
+</div>
 
 ---
 
-## 📈 GitHub Stats
-<div>
-  <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=HighnessAtharva&show_icons=true&theme=vue&count_private=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighnessAtharva&layout=compact&show_icons=true&theme=vue" />
+## **💡 About Me**
+
+I'm a **Developer Advocate** and **Python Engineer** specializing in **AI & Automation**, with a passion for building scalable SaaS solutions. As a **Freelance Python Specialist** for TutorialsPoint, I've created comprehensive tutorials on Pandas, NumPy, Matplotlib, Flask, and Django, while building **8+ production SaaS projects**.
+
+**🔥 Current Focus:**
+- Building scalable **APIs** and **automation pipelines**
+- Developing **AI-powered solutions** for business automation  
+- Creating **technical content** that drives measurable business outcomes
+- Growing **atharvashah.com** brand with high-impact content strategy
+
+---
+
+## **🛠️ Tech Stack & Expertise**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,flask,django,fastapi,aws,docker,mongodb,postgres,redis&perline=6" alt="Tech Stack" />
 </div>
 
+### **🎯 Specialization Areas**
+🤖 AI & Machine Learning 📊 Data Analysis & Visualization
+🔧 Process Automation 🌐 Web Development (Full-Stack)
+🚀 API Development ☁️ Cloud Architecture (AWS/GCP)
+📝 Technical Writing 🎯 Developer Relations
 
-## I ❤️ Memes | A rand() memes for you :p
+---
 
-<img alt="Random Memes" height="250px" src="https://web.ohidur.com/memes/random.jpg?category=programming">
+## **📊 GitHub Analytics**
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HighnessAtharva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighnessAtharva&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+</div>
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=github/HighnessAtharva)](https://github.com/HighnessAtharva)
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=HighnessAtharva&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HighnessAtharva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+## **🏆 Professional Achievements**
+
+<div align="center">
+
+[![Developer Advocate at KubeArmor](https://img.shields.io/badge/Developer%20Advocate-KubeArmor-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://kubearmor.io)
+[![Technical Specialist at AccuKnox](https://img.shields.io/badge/Technical%20Specialist-AccuKnox-009688?style=for-the-badge&logo=cloudflare&logoColor=white)](https://accuknox.com)
+[![Majority Creator at help.accuknox.com](https://img.shields.io/badge/Majority%20Creator-help.accuknox.com-orange?style=for-the-badge&logo=bookstack&logoColor=white)](https://help.accuknox.com)
+![Freelance](https://img.shields.io/badge/TutorialsPoint-Python%20Specialist-success?style=for-the-badge&logo=python&logoColor=white)
+![Projects](https://img.shields.io/badge/SaaS%20Projects-8%2B%20Built-blue?style=for-the-badge&logo=rocket&logoColor=white)
+![Focus](https://img.shields.io/badge/Specialization-AI%20%26%20Automation-purple?style=for-the-badge&logo=brain&logoColor=white)
+![Content](https://img.shields.io/badge/Technical-Content%20Creator-orange?style=for-the-badge&logo=hashnode&logoColor=white)
+
+</div>
+
+---
+
+## **🐍 Contribution Snake**
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HighnessAtharva/HighnessAtharva/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HighnessAtharva/HighnessAtharva/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HighnessAtharva/HighnessAtharva/output/github-contribution-grid-snake-dark.svg">
+  </picture>
+</div>
+
+---
+
+## **💼 Let's Connect & Collaborate**
+
+<div align="center">
+  
+**🚀 Ready to build something amazing together?**
+
+I'm always open to discussing **automation solutions**, **API architecture**, **AI implementations**, and **content collaboration** opportunities.
+
+**📧 Reach Out:** [atharva@atharvashah.com](mailto:hello@atharvashah.com)  
+**🌐 Explore:** [atharvashah.com](https://atharvashah.com) | [store.atharvashah.com](https://store.atharvashah.com) | [blog.atharvashah.com](https://blog.atharvashah.com)
+
+---
+
+*"Building scalable solutions that turn complex problems into automated success stories"*
+
+</div>
