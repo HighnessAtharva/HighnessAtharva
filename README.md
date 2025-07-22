@@ -30,37 +30,6 @@ I'm a **Developer Advocate** and **Python Engineer** specializing in **AI & Auto
 
 ---
 
-## **🛠️ Tech Stack & Expertise**
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,flask,django,fastapi,aws,docker,mongodb,postgres,redis&perline=6" alt="Tech Stack" />
-</div>
-
-### **🎯 Specialization Areas**
-🤖 AI & Machine Learning 📊 Data Analysis & Visualization
-🔧 Process Automation 🌐 Web Development (Full-Stack)
-🚀 API Development ☁️ Cloud Architecture (AWS/GCP)
-📝 Technical Writing 🎯 Developer Relations
-
----
-
-## **📊 GitHub Analytics**
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HighnessAtharva&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighnessAtharva&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=HighnessAtharva&theme=tokyonight&hide_border=true&background=0D1117" height="150" alt="streak stats"/>
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HighnessAtharva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
-
 ## **🏆 Professional Achievements**
 
 <div align="center">
@@ -77,13 +46,41 @@ I'm a **Developer Advocate** and **Python Engineer** specializing in **AI & Auto
 
 ---
 
-## **🐍 Contribution Snake**
+## **🛠️ Tech Stack & Expertise**
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,javascript,react,nodejs,flask,django,fastapi,aws,docker,mongodb,postgres,redis&perline=6" alt="Tech Stack" />
+</div>
+
+### **🎯 Specialization Areas**
+🤖 AI & Machine Learning 📊 Data Analysis & Visualization
+🔧 Process Automation 🌐 Web Development (Full-Stack)
+🚀 API Development ☁️ Cloud Architecture (AWS/GCP)
+📝 Technical Writing 🎯 Developer Relations
+
+---
+
+## **📊 GitHub Analytics**
+
+
+<div align="center" style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HighnessAtharva&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
+  <img height="180em" src="https://streak-stats.demolab.com/?user=HighnessAtharva&theme=tokyonight&hide_border=true&background=0D1117" alt="streak stats"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HighnessAtharva&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HighnessAtharva/HighnessAtharva/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/HighnessAtharva/HighnessAtharva/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HighnessAtharva/HighnessAtharva/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://highnessatharva.github.io/HighnessAtharva/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://highnessatharva.github.io/HighnessAtharva/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://highnessatharva.github.io/HighnessAtharva/github-contribution-grid-snake.svg">
   </picture>
 </div>
 
