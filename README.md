@@ -82,7 +82,7 @@ I'm a **Developer Advocate** and **Python Engineer** specializing in **AI & Auto
 
 I'm always open to discussing **automation solutions**, **API architecture**, **AI implementations**, and **content collaboration** opportunities.
 
-**📧 Reach Out:** [atharva@atharvashah.com](mailto:hello@atharvashah.com)  
+**📧 Reach Out:** [hello@atharvashah.com](mailto:hello@atharvashah.com)  
 **🌐 Explore:** [atharvashah.com](https://atharvashah.com) | [store.atharvashah.com](https://store.atharvashah.com) | [blog.atharvashah.com](https://blog.atharvashah.com)
 
 ---
