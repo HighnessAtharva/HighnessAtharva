@@ -27,6 +27,7 @@ My work sits where engineering meets communication: CLIs on PyPI, AI automation 
 **🔥 Current Focus:**
 - Writing for **data engineers** at Altimate AI (dbt tooling, Power User)
 - **AI and cloud security** content and DevRel at AccuKnox
+- Building **[10x DevRel](https://10xdevrel.atharvashah.com)**, an AI-native operating system for developer relations
 - Shipping **Python CLIs and AI tools** (VocabCLI, musicli, and more)
 - Growing **atharvashah.com** into a full content and product brand
 
@@ -36,6 +37,7 @@ My work sits where engineering meets communication: CLIs on PyPI, AI automation 
 
 | Project | What it is | Stars |
 |---------|-----------|:-----:|
+| [**10x DevRel**](https://10xdevrel.atharvashah.com) | AI-native operating system for developer relations: AI playbooks, tools, a companion, and a practitioner library | 🌐 Live |
 | [**VocabCLI**](https://github.com/HighnessAtharva/VocabCLI) | AI-powered vocabulary builder for the terminal, published on PyPI | ![](https://img.shields.io/github/stars/HighnessAtharva/VocabCLI?style=flat-square) |
 | [**Media-Analysis**](https://github.com/HighnessAtharva/Media-Analysis) | Streamlit app that turns Goodreads, Letterboxd, and Steam data into dashboards | ![](https://img.shields.io/github/stars/HighnessAtharva/Media-Analysis?style=flat-square) |
 | [**Letterboxd-Movie-Runtimes**](https://github.com/HighnessAtharva/Letterboxd-Movie-Runtimes) | Python CLI that computes the total runtime of your logged films | ![](https://img.shields.io/github/stars/HighnessAtharva/Letterboxd-Movie-Runtimes?style=flat-square) |
