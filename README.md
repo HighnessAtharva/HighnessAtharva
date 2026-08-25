@@ -28,8 +28,29 @@ My work sits where engineering meets communication: CLIs on PyPI, AI automation 
 - Writing for **data engineers** at Altimate AI (dbt tooling, Power User)
 - **AI and cloud security** content and DevRel at AccuKnox
 - Building **[10x DevRel](https://10xdevrel.atharvashah.com)**, an AI-native operating system for developer relations
-- Shipping **Python CLIs and AI tools** (VocabCLI, musicli, and more)
+- Shipping open source developer tools ([substack-cli](https://github.com/HighnessAtharva/substack-cli), [groundtruth](https://github.com/HighnessAtharva/groundtruth), [quotecard](https://github.com/HighnessAtharva/quotecard), VocabCLI, musicli)
 - Growing **atharvashah.com** into a full content and product brand
+
+---
+
+## **🆕 Just Shipped**
+
+Three tools I built in 2026, each one because the thing I needed did not exist yet.
+
+<a href="https://github.com/HighnessAtharva/substack-cli"><img src="https://raw.githubusercontent.com/HighnessAtharva/substack-cli/main/assets/banner.svg" width="840" alt="substack-cli: push, pull, and publish Substack posts from the command line"></a>
+
+**[substack-cli](https://github.com/HighnessAtharva/substack-cli)** runs my newsletter from a terminal. Substack has no public API, so I wrote one. It has shipped 79 posts to a live publication, and the `audit` command reports what an update would destroy before it destroys anything. Python standard library only, no dependencies.
+
+<a href="https://github.com/HighnessAtharva/groundtruth"><img src="https://raw.githubusercontent.com/HighnessAtharva/groundtruth/main/docs/assets/banner.svg" width="840" alt="groundtruth: bind every factual claim to a verbatim quote in a real source"></a>
+
+**[groundtruth](https://github.com/HighnessAtharva/groundtruth)** pins every claim in a document to the exact words in its source. It refuses a claim it cannot find in your document, and it refuses a quote it cannot find in the source. Then it fails your build when either side moves. 203 tests, one runtime dependency, on npm.
+
+<a href="https://github.com/HighnessAtharva/quotecard"><picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/HighnessAtharva/quotecard/main/docs/banner-dark.png">
+  <img src="https://raw.githubusercontent.com/HighnessAtharva/quotecard/main/docs/banner-light.png" width="840" alt="quotecard: paste a link, get a quote card PNG">
+</picture></a>
+
+**[quotecard](https://github.com/HighnessAtharva/quotecard)** turns a post link or a typed line into a branded PNG. A good sentence dies inside one platform, and as an image it travels. X posts, Substack notes, Substack articles, Threads posts, or any text. Batch 40 links in one browser session, and no watermark.
 
 ---
 
@@ -37,6 +58,9 @@ My work sits where engineering meets communication: CLIs on PyPI, AI automation 
 
 | Project | What it is | Stars |
 |---------|-----------|:-----:|
+| [**substack-cli**](https://github.com/HighnessAtharva/substack-cli) | A command line client for Substack. Push, pull, schedule and publish on the Python standard library alone | ![](https://img.shields.io/github/stars/HighnessAtharva/substack-cli?style=flat-square) |
+| [**groundtruth**](https://github.com/HighnessAtharva/groundtruth) | Claim-to-source verification for writing. Every number stays anchored, or CI fails | ![](https://img.shields.io/github/stars/HighnessAtharva/groundtruth?style=flat-square) |
+| [**quotecard**](https://github.com/HighnessAtharva/quotecard) | Paste a link, get a quote card PNG. X, Substack, Threads, or any line you type. No watermark | ![](https://img.shields.io/github/stars/HighnessAtharva/quotecard?style=flat-square) |
 | [**10x DevRel**](https://10xdevrel.atharvashah.com) | AI-native operating system for developer relations: AI playbooks, tools, a companion, and a practitioner library | 🌐 Live |
 | [**VocabCLI**](https://github.com/HighnessAtharva/VocabCLI) | AI-powered vocabulary builder for the terminal, published on PyPI | ![](https://img.shields.io/github/stars/HighnessAtharva/VocabCLI?style=flat-square) |
 | [**Media-Analysis**](https://github.com/HighnessAtharva/Media-Analysis) | Streamlit app that turns Goodreads, Letterboxd, and Steam data into dashboards | ![](https://img.shields.io/github/stars/HighnessAtharva/Media-Analysis?style=flat-square) |
